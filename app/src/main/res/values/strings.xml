@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort by:</string>
+    <string name="tracksort">Track rating</string>
+    <string name="artistsort">Artist rating</string>
+    <string name="result">Search results</string>
+    <string name="track">Track</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="date">Date</string>
+</resources>
